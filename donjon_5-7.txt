@@ -1,0 +1,49 @@
+# Donjon 5x7
+# Ligne 1 :
+- 0 0
+| 0 1
++ 0 2
+| 0 3
+L 0 4
+- 0 5
++ 0 6
+# Ligne 2 :
+| 1 0
+T 1 1
+L 1 2
+- 1 3
++ 1 4
+| 1 5
+L 1 6
+# Ligne 3 :
++ 2 0
+| 2 1
+- 2 2
+| 2 3
+L 2 4
+T 2 5
++ 2 6
+# Ligne 4 :
+| 3 0
+- 3 1
++ 3 2
+- 3 3
+| 3 4
++ 3 5
+| 3 6
+# Ligne 5 :
+L 4 0
+- 4 1
+| 4 2
+- 4 3
+L 4 4
+| 4 5
+L 4 6
+# Aventurier :
+A 4 6 1
+# Dragons :
+D 0 3 1
+D 2 0 2
+D 4 0 3
+# Trésors disponibles pour le Donjon :
+NB_TRESORS 2
