@@ -1,4 +1,4 @@
-# Wall Is You — Jeu de puzzle en Python
+# Wall Is You
 
 Projet réalisé en binôme dans le cadre de la SAE-01 du BUT Informatique 1 (2025-2026).
 
