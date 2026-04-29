@@ -82,3 +82,8 @@ python jeu_principal.py
 - Structures de données dans `modele_donjon.py` (salles, personnages, trésor)
 - Chargement des niveaux depuis les fichiers `.txt` (`chargeur_donjon.py`)
 - Système de sauvegarde et chargement au format JSON
+
+---
+
+Projet réalisé dans le cadre du **BUT 1 Informatique**
+Université Gustave Eiffel — Année universitaire 2025-2026
