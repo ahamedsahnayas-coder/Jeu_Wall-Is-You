@@ -1,4 +1,4 @@
-# Wall Is You
+# Wall Is You — Jeu de puzzle en Python
 
 Projet réalisé en binôme dans le cadre de la SAE-01 du BUT Informatique 1 (2025-2026).
 
@@ -67,8 +67,22 @@ python jeu_principal.py
 └── images/              # Ressources graphiques (.gif)
 ```
 
----
 
 ## Réalisé par
 
-BEN OUIRANE Waël · AHAMEDSAH Nayas · LECHAR Millan
+**Nayas AHAMEDSAH** — Interface & Visuel
+- Design des menus et ergonomie générale
+- Rotation des images de salles via Pillow
+- Système de cache pour optimiser les performances
+- Gestion des ressources graphiques dans `temporaire_images/`
+
+**Waël BEN OUIRANE** — Logique métier & Algorithmes
+- Algorithme de recherche de chemin BFS (`regles_jeu.py`)
+- Calcul de l'intention automatique et indice (ligne bleue)
+- Mode tour unique (touche `U`)
+- Gestion des combats et conditions de fin de partie
+
+**Millan LECHAR** — Structures de données & Chargement
+- Structures de données dans `modele_donjon.py` (salles, personnages, trésor)
+- Chargement des niveaux depuis les fichiers `.txt` (`chargeur_donjon.py`)
+- Système de sauvegarde et chargement au format JSON
