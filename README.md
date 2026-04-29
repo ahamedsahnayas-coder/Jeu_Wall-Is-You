@@ -13,11 +13,6 @@ affronter les monstres dans le bon ordre sans se faire tuer.
 
 Avoir Python 3 et `fltk.py` dans le même dossier que les fichiers du projet.
 
-Pillow est recommandé pour les rotations d'images :
-```bash
-pip install Pillow
-```
-
 Puis lancer :
 ```bash
 python jeu_principal.py
@@ -67,6 +62,7 @@ python jeu_principal.py
 └── images/              # Ressources graphiques (.gif)
 ```
 
+---
 
 ## Réalisé par
 
