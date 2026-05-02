@@ -9,12 +9,15 @@ affronter les monstres dans le bon ordre sans se faire tuer.
 
 ---
 
-## Lancer le jeu
+## 🚀 Lancer le jeu
 
-Avoir Python 3 et `fltk.py` dans le même dossier que les fichiers du projet.
+Ce projet est développé en **Python 3**. Assurez vous que le fichier `fltk.py` doit être dans le dossier. Pour y jouer sur votre machine, tappez les commandes suivantes :
 
-Puis lancer :
 ```bash
+git clone https://github.com/ahamedsahnayas-coder/Jeu_Wall-Is-You.git
+
+cd Jeu_Wall-Is-You
+
 python jeu_principal.py
 ```
 
