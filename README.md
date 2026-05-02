@@ -1,6 +1,6 @@
 # Wall Is You — Jeu de puzzle en Python
 
-Projet réalisé en binôme dans le cadre de la SAE-01 du BUT Informatique 1 (2025-2026).
+Projet réalisé en binôme dans le cadre de la SAE-01 du BUT Informatique 1.
 
 Wall Is You est un jeu de puzzle où **vous contrôlez le donjon**, pas l'aventurier.
 Un aventurier se déplace automatiquement dans votre donjon et cherche à tuer les dragons.
